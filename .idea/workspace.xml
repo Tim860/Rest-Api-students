@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="730ec92f-e813-4373-bb28-4cb9b8335448" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/timur860/students/model/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/timur860/students/model/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/timur860/students/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/timur860/students/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/timur860/students/service/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/timur860/students/service/StudentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/timur860/students/model/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/timur860/students/model/BaseEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/timur860/students/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/timur860/students/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/timur860/students/service/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/timur860/students/service/StudentServiceImpl.class" afterDir="false" />
-    </list>
+    <list default="true" id="730ec92f-e813-4373-bb28-4cb9b8335448" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564912542390</updated>
-      <workItem from="1564912547433" duration="6284000" />
+      <workItem from="1564912547433" duration="6983000" />
     </task>
     <servers />
   </component>
